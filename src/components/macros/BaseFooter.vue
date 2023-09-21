@@ -15,7 +15,7 @@ export default {
 @import '../../assets/style/mixins.scss';
 
 .container {
-	@include flex_center
+	/* @include flex_center */
 }
 
 </style>
